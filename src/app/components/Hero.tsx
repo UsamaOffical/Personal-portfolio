@@ -9,7 +9,7 @@ const Hero = () => {
         <div className='w-full lg:w-[50%] space-y-3 px-6 lg:px-0'>
             <h1 className='text-2xl lg:text-5xl font-bold'>Hi,I'm <span className='text-[#6fffe9]'>Usama Jameel</span></h1>
             <h2 className='text-md lg:text-3xl font-semibold mb-3.5 text-[#6fffe9]'>Frontend Developer</h2>
-            <p className='text-sm lg:text-base tracking-normal lg:tracking-widest mb-4'>I’m Usama Jameel, a passionate Frontend Developer skilled in Next.js, TypeScript, and Tailwind CSS. I specialize in building fast, user-friendly, and visually stunning web applications.</p>
+            <p className='text-sm lg:text-base tracking-normal lg:tracking-widest mb-4'>I&apos;m Usama Jameel, a passionate Frontend Developer skilled in Next.js, TypeScript, and Tailwind CSS. I specialize in building fast, user-friendly, and visually stunning web applications.</p>
             <div className='flex gap-3.5'>
                 <button className='py-1.5 px-5 border-0 bg-[#6fffe9] text-[#011627] rounded-3xl text-lg'>Contact</button>
                 <button className='bg-transparent border-2 border-[#6fffe9] px-8 rounded-3xl'>CV</button>
