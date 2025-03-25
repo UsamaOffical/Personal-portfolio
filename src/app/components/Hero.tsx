@@ -17,7 +17,7 @@ const Hero = () => {
         </div>
         <div>
             <div className='w-[300px] h-[300px] lg:w-[500px] lg:h-[500px] flex items-center justify-center rounded-full overflow-hidden border-4 border-[#6fffe9]'>
-                <Image src={require("../../../public/profile.jpg")} alt='' height={600} width={600} className='object-fill w-full h-full rounded-full'/>
+                <Image src='/profile.jpg' alt='' height={600} width={600} className='object-fill w-full h-full rounded-full'/>
             </div>
         </div>
       </div>
